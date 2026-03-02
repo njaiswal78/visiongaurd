@@ -1,0 +1,22 @@
+.env
+.env.local
+__pycache__/
+observations.db
+logs/
+*.pyc
+.venv/
+venv/
+# Personal face photos - keep README, ignore images
+known_faces/*.jpg
+known_faces/*.jpeg
+known_faces/*.png
+
+# Camera-specific ROI zone (run setup_roi.py to create yours)
+roi_zone.json
+
+# YOLO models (downloaded on first run)
+*.pt
+
+# SQLite temp files
+observations.db-*
+observations.db-*
