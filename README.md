@@ -4,7 +4,7 @@
 
 Perfect for: driveway monitoring, doorbell alerts, pet watching, or any area you want to keep an eye on.
 
-![Telegram alerts – movement detection, object recognition, AI descriptions](assets/telegram-alerts-screenshot.png)
+![Telegram alerts – movement detection, object recognition, AI descriptions](assets/telegram-alerts-screenshot-v2.png)
 
 ---
 
