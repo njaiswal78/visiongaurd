@@ -1,5 +1,8 @@
 .env
 .env.local
+
+# Cursor IDE rules (local only)
+.cursor/
 __pycache__/
 observations.db
 logs/
