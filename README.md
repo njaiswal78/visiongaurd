@@ -30,8 +30,8 @@ Perfect for: driveway monitoring, doorbell alerts, pet watching, or any area you
 ### Step 2: Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/rtsp-ai-vision.git
-cd rtsp-ai-vision
+git clone https://github.com/njaiswal78/visiongaurd.git
+cd visiongaurd
 pip install -r requirements.txt
 ```
 
